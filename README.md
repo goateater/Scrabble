@@ -1,0 +1,2 @@
+# Scrabble
+Edx Scrabble Excercise
